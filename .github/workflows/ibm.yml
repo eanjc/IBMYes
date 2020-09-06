@@ -1,5 +1,6 @@
 name: IBM Cloud Auto Restart
 
+# to activate
 on:
   push:
     branches: [ master ]
